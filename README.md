@@ -74,7 +74,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/mojtaba-motevali/mojtaba-motevali/output/snake.svg" alt="Snake animation" />
-
-###
