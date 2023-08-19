@@ -2,10 +2,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">I am Mojtaba Motevali with hands of experience in IT and Software Engineering, and have a strong passion for software<br>performance optimization and security. I enjoy finding ways to make software run faster and more efficiently,<br>and stay up-to-date with the latest security trends and best practices. I am dedicated to honing my skills and<br>making meaningful contributions to the software evolution.</p>
 
 ###
